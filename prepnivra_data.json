@@ -1,0 +1,30 @@
+{
+    "profile": {
+        "name": "Vivek",
+        "role": "Python Developer"
+    },
+    "scores": [
+        {
+            "category": "Aptitude",
+            "score": 80.0,
+            "date": "2026-10-17"
+        },
+        {
+            "category": "Python",
+            "score": 80.0,
+            "date": "2026-10-17"
+        },
+        {
+            "category": "Aptitude",
+            "score": 90.0,
+            "date": "2026-10-23"
+        }
+    ],
+    "coding": [
+        {
+            "title": "Palindrome",
+            "status": "Completed",
+            "date": "2026-10-23"
+        }
+    ]
+}
